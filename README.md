@@ -1,2 +1,4 @@
 # botservices
-Creating Azure Bot Services
+Creating Azure Bot Services using QnA Maker
+
+
